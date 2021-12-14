@@ -1,5 +1,6 @@
 import SiteHeader from "components/SiteHeader";
 import { Route, Routes } from "react-router-dom";
+import AddAddressForPersonPage from "./AddAddressForPersonPage";
 import AddPersonPage from "./AddPersonPage";
 import HomePage from "./HomePage";
 import ViewPersonAddressPage from "./ViewPersonAddressPage";
